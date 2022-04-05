@@ -1,2 +1,2 @@
 # mds
-mobile development shit
+mobile development 
